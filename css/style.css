@@ -71,7 +71,7 @@ a{
 	transition: all ease 0.5s;
 }
 /*--responsive for mobile phone--*/
-@media(max-width:720px){
+@media(max-width:350px){
 	.box{
 		width: 94%;
 		height: 500px;
