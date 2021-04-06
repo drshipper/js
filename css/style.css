@@ -11,8 +11,8 @@ a{
 	text-decoration:none;
 }
 .container{
-	width:50%;
-	height: 30vh;
+	width:20%;
+	height: 20vh;
 	background-color:#0000;
 	display:flex;
 	justify-content: center;
